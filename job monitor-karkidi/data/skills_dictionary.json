@@ -1,0 +1,134 @@
+{
+  "technical_skills": {
+    "programming_languages": [
+      "Python", "JavaScript", "Java", "C++", "C#", "PHP", "Ruby", "Go", "Rust", "Swift",
+      "Kotlin", "TypeScript", "Scala", "R", "MATLAB", "Perl", "VB.NET", "Objective-C",
+      "Dart", "Julia", "F#", "Clojure", "Haskell", "Erlang", "Elixir", "Crystal"
+    ],
+    "web_technologies": [
+      "HTML", "CSS", "React", "Angular", "Vue.js", "Node.js", "Express.js", "Django",
+      "Flask", "FastAPI", "Spring Boot", "Laravel", "Ruby on Rails", "ASP.NET",
+      "Next.js", "Nuxt.js", "Svelte", "jQuery", "Bootstrap", "Tailwind CSS",
+      "Material-UI", "Chakra UI", "Sass", "Less", "Webpack", "Vite", "Parcel"
+    ],
+    "databases": [
+      "MySQL", "PostgreSQL", "MongoDB", "Redis", "SQLite", "Oracle", "SQL Server",
+      "MariaDB", "DynamoDB", "Cassandra", "Neo4j", "InfluxDB", "CouchDB",
+      "Elasticsearch", "Firebase", "Supabase", "PlanetScale", "Prisma"
+    ],
+    "cloud_platforms": [
+      "AWS", "Azure", "Google Cloud Platform", "Heroku", "DigitalOcean", "Linode",
+      "Vultr", "IBM Cloud", "Oracle Cloud", "Alibaba Cloud", "Vercel", "Netlify"
+    ],
+    "devops_tools": [
+      "Docker", "Kubernetes", "Jenkins", "GitLab CI", "GitHub Actions", "CircleCI",
+      "Travis CI", "Terraform", "Ansible", "Chef", "Puppet", "Vagrant", "Helm",
+      "ArgoCD", "Prometheus", "Grafana", "ELK Stack", "Splunk", "Datadog"
+    ],
+    "version_control": [
+      "Git", "GitHub", "GitLab", "Bitbucket", "Subversion", "Mercurial", "Perforce"
+    ],
+    "data_science_ml": [
+      "TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NumPy", "Matplotlib",
+      "Seaborn", "Plotly", "Jupyter", "Apache Spark", "Hadoop", "Kafka",
+      "Airflow", "MLflow", "Kubeflow", "H2O.ai", "XGBoost", "LightGBM",
+      "OpenCV", "NLTK", "spaCy", "Hugging Face", "Keras", "JAX"
+    ],
+    "mobile_development": [
+      "React Native", "Flutter", "Xamarin", "Ionic", "Cordova", "Native iOS",
+      "Native Android", "Unity", "Unreal Engine", "Expo"
+    ],
+    "testing_frameworks": [
+      "Jest", "Mocha", "Cypress", "Selenium", "Pytest", "JUnit", "TestNG",
+      "Jasmine", "Karma", "Protractor", "Playwright", "Puppeteer"
+    ],
+    "api_technologies": [
+      "REST", "GraphQL", "gRPC", "SOAP", "WebSockets", "Socket.IO", "Apollo",
+      "Postman", "Insomnia", "Swagger", "OpenAPI"
+    ],
+    "operating_systems": [
+      "Linux", "Windows", "macOS", "Ubuntu", "CentOS", "RHEL", "Debian", "Arch Linux"
+    ],
+    "design_tools": [
+      "Figma", "Adobe XD", "Sketch", "InVision", "Photoshop", "Illustrator",
+      "Canva", "Framer", "Principle", "Zeplin"
+    ],
+    "analytics_tools": [
+      "Google Analytics", "Mixpanel", "Amplitude", "Hotjar", "Crazy Egg",
+      "Adobe Analytics", "Segment", "Tableau", "Power BI", "Looker"
+    ]
+  },
+  "soft_skills": {
+    "communication": [
+      "Written Communication", "Verbal Communication", "Presentation Skills",
+      "Active Listening", "Cross-cultural Communication", "Technical Writing",
+      "Documentation", "Public Speaking", "Client Communication"
+    ],
+    "leadership": [
+      "Team Leadership", "Project Management", "Mentoring", "Coaching",
+      "Strategic Planning", "Decision Making", "Delegation", "Conflict Resolution",
+      "Change Management", "Vision Setting"
+    ],
+    "collaboration": [
+      "Teamwork", "Cross-functional Collaboration", "Remote Collaboration",
+      "Agile Methodologies", "Scrum", "Kanban", "Pair Programming",
+      "Code Review", "Knowledge Sharing"
+    ],
+    "problem_solving": [
+      "Analytical Thinking", "Critical Thinking", "Creative Problem Solving",
+      "Root Cause Analysis", "Troubleshooting", "Debugging", "Innovation",
+      "Research Skills", "Solution Architecture"
+    ],
+    "time_management": [
+      "Prioritization", "Task Management", "Deadline Management",
+      "Multitasking", "Efficiency", "Organization", "Planning",
+      "Goal Setting", "Productivity"
+    ],
+    "adaptability": [
+      "Learning Agility", "Flexibility", "Resilience", "Change Adaptation",
+      "Continuous Learning", "Growth Mindset", "Curiosity",
+      "Technology Adoption", "Skill Development"
+    ],
+    "quality_focus": [
+      "Attention to Detail", "Quality Assurance", "Best Practices",
+      "Code Quality", "Testing Mindset", "Continuous Improvement",
+      "Standards Compliance", "Peer Review"
+    ]
+  },
+  "industry_domains": [
+    "FinTech", "HealthTech", "EdTech", "E-commerce", "Gaming", "SaaS",
+    "Enterprise Software", "Mobile Apps", "Web Applications", "IoT",
+    "Blockchain", "Cryptocurrency", "AI/ML", "Cybersecurity", "Cloud Computing",
+    "DevOps", "Data Analytics", "Business Intelligence", "CRM", "ERP",
+    "Supply Chain", "Logistics", "Manufacturing", "Retail", "Media",
+    "Entertainment", "Social Media", "Travel", "Real Estate", "Insurance"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect", "AWS Certified Developer",
+    "Google Cloud Professional", "Azure Fundamentals", "Azure Developer",
+    "Certified Kubernetes Administrator", "Docker Certified Associate",
+    "PMP", "Scrum Master", "Product Owner", "CISSP", "CEH",
+    "CompTIA Security+", "CCNA", "CCNP", "Oracle Certified",
+    "Microsoft Certified", "Salesforce Certified", "Tableau Certified"
+  ],
+  "methodologies": [
+    "Agile", "Scrum", "Kanban", "Lean", "DevOps", "CI/CD", "TDD", "BDD",
+    "DDD", "Microservices", "Event-Driven Architecture", "SOLID Principles",
+    "Design Patterns", "Clean Code", "Code Reviews", "Pair Programming"
+  ],
+  "experience_levels": {
+    "entry_level": ["Intern", "Junior", "Graduate", "Entry Level", "Associate"],
+    "mid_level": ["Mid Level", "Intermediate", "Experienced", "Professional"],
+    "senior_level": ["Senior", "Lead", "Principal", "Staff", "Expert"],
+    "management": ["Manager", "Director", "VP", "CTO", "Head of", "Chief"]
+  },
+  "job_types": [
+    "Full-time", "Part-time", "Contract", "Freelance", "Remote", "Hybrid",
+    "On-site", "Temporary", "Permanent", "Internship", "Co-op"
+  ],
+  "company_sizes": [
+    "Startup", "Small Company", "Medium Company", "Large Company",
+    "Enterprise", "Fortune 500", "Public Company", "Private Company",
+    "Non-profit", "Government"
+  ]
+}
